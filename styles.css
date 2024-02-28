@@ -20,8 +20,9 @@ body {
     font-family: planetKosmos;
     background-color: white;
     color: black;
-    text-align: center;
+    text-align: left;
     padding: 1px;
+    margin: 0 0 0 15px;
 }
 .footer {
     background-color: lightgrey;
